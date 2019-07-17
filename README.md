@@ -1,6 +1,6 @@
 # CropYield-prediction
 ## Project Details: Predicting the crop production.(A college project)
-### Other Contributer: [Disha Sinha](https://github.com/disha2sinha)
+### Other Contributer: [Arghadip Chakraborty](https://github.com/arghac14)
 
 ### Dataset:
 ![Final Dataset](https://github.com/arghac14/CropYield-prediction/blob/master/Snapshots/Capture1.JPG)
